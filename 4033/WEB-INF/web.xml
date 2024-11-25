@@ -1,0 +1,88 @@
+<web-app >
+    <servlet>
+        <servlet-name>Hello</servlet-name>
+        <servlet-class>Hello</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Hello</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <servlet>
+    <servlet-name>VisitCounterServlet</servlet-name>
+    <servlet-class>VisitCounterServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>VisitCounterServlet</servlet-name>
+    <url-pattern>/visitCounter</url-pattern>
+</servlet-mapping>
+<servlet>
+    <servlet-name>BrihadeeshwaraTempleServlet</servlet-name>
+    <servlet-class>BrihadeeshwaraTempleServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>BrihadeeshwaraTempleServlet</servlet-name>
+    <url-pattern>/monument</url-pattern>
+</servlet-mapping>
+<servlet>
+    <servlet-name>MonumentVisitServlet</servlet-name>
+    <servlet-class>MonumentVisitServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>MonumentVisitServlet</servlet-name>
+    <url-pattern>/session</url-pattern>
+</servlet-mapping>
+<servlet>
+    <servlet-name>MonumentVisitCookieServlet</servlet-name>
+    <servlet-class>MonumentVisitCookieServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>MonumentVisitCookieServlet</servlet-name>
+    <url-pattern>/cookie</url-pattern>
+</servlet-mapping>
+<servlet>
+    <servlet-name>url1</servlet-name>
+    <servlet-class>url1</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>url1</servlet-name>
+    <url-pattern>/url1</url-pattern>
+</servlet-mapping>
+<servlet>
+    <servlet-name>url2</servlet-name>
+    <servlet-class>url2</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>url2</servlet-name>
+    <url-pattern>/url2</url-pattern>
+</servlet-mapping>
+<servlet>
+    <servlet-name>h1</servlet-name>
+    <servlet-class>h1</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>h1</servlet-name>
+    <url-pattern>/h1</url-pattern>
+</servlet-mapping>
+<servlet>
+    <servlet-name>h2</servlet-name>
+    <servlet-class>h2</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>h2</servlet-name>
+    <url-pattern>/h2</url-pattern>
+</servlet-mapping>
+
+</web-app>
+
+
+
+
+
+
+
+
+
+
+
+
+
