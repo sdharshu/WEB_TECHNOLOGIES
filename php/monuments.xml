@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monuments>
+    <monument>
+        <name>Brihadeeswarar Temple</name>
+        <location>Thanjavur</location>
+        <description>A UNESCO World Heritage Site, also known as the Big Temple, dedicated to Lord Shiva.</description>
+    </monument>
+    <monument>
+        <name>Meenakshi Temple</name>
+        <location>Madurai</location>
+        <description>A historic Hindu temple, famous for its intricate architecture and sculptures.</description>
+    </monument>
+    <monument>
+        <name>Rockfort Temple</name>
+        <location>Tiruchirappalli</location>
+        <description>A historic fort and temple complex built on an ancient rock formation.</description>
+    </monument>
+</monuments>
